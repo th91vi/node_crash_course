@@ -1,0 +1,25 @@
+{
+  "name": "node_crash_course",
+  "version": "1.0.0",
+  "description": "Node Crash Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/th91vi/node_crash_course.git"
+  },
+  "author": "Thiago Vieira Pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/th91vi/node_crash_course/issues"
+  },
+  "homepage": "https://github.com/th91vi/node_crash_course#readme",
+  "dependencies": {
+    "uuid": "^3.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
